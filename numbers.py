@@ -82,7 +82,8 @@ print("Mult, division... ", b)
 #   + та -
 b = 2 - 1 + 3 # зліва направо
 print("Sum and substract ", b)
-
+b=10-3
+print(b)
 
 
 
